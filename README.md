@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge](https://www
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
