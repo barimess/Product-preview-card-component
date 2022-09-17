@@ -24,10 +24,13 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
 }
 
 .wrapper {
-    margin-top: 125px;
     display: flex;
     justify-content: center;
     align-items: center;
