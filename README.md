@@ -23,6 +23,7 @@ Users should be able to:
 
 ### Screenshot
 ![.](solution/solution.png)
+<img src="solution/solution-mobile.png" alt="drawing" width="375"/>
 
 ## My process
 
@@ -31,6 +32,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS media queries
 
 ### Useful resources
 
